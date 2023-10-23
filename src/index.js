@@ -10,7 +10,7 @@ import Programcilar from './components/Programcilar';
 
 
 const container = document.getElementById("root");
-const root = createRoot(container)
+const root = createRoot(container);
 root.render(<>
   <Sayac />
   <RuhHalleri />
